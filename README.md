@@ -11,6 +11,7 @@
   <li>💻 <strong><a href="https://pyclass.org" target="_blank">pyclass.org</a>:</strong> Developing an easy-to-use live-coding software and in-browser IDE designed for coding centers to grade and assign homework using React and TypeScript.</li>
   <li>🎮 <strong>Roblox Games (<a href="https://www.roblox.com/communities/32985389/gladly-gg#!/about" target="_blank">Gladly.gg</a>):</strong> Designing and programming independent games using Lua and the Knit framework.</li>
   <li>📱 <strong>React Projects:</strong> Building various applications, including a mock Mobilizing Events App using React Native and Expo Go, and <a href="https://arche.gladly.gg" target="_blank">Arche</a> using React.</li>
+  <li>🗺️ <strong>GIS & Spatial Analysis:</strong> Modeling urban planning and pedestrian infrastructure using QGIS, including a recent project mapping optimized transit routing across the UNC Chapel Hill campus with OpenStreetMap data.</li>
   <li>🏢 <strong>Code Wiz Durham:</strong> Serving as Center Director, leading daily operations, managing a team of 10-15 instructors, and executing community outreach.
     <br/><br/>
     <a target="_blank" href="https://www.linkedin.com/in/ashleyclarksons" style="display: inline-block;">
